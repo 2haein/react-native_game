@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native_game",
-    "slug": "react-native_game",
+    "name": "react-native_game_fingering",
+    "slug": "react-native_game_fingering",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,11 +16,17 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "ios": {
+      "bundleIdentifier": "com.thekpop.fingering",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.thekpop.fingering",
+      "versionCode": 1
     }
   }
 }
