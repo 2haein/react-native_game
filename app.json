@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native_donkey-kong",
-    "slug": "react-native_donkey-kong",
+    "name": "react-native_game",
+    "slug": "react-native_game",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
